@@ -1,5 +1,5 @@
 ### Hi there 👋
-    <b>I am Danish </b> 
+    I am Danish
 - 🔭 I’m currently working on Coding Skills
 - 🌱 I’m currently learning MVC ASP.NET 8
 - 💬 Ask me about C# , JS , Bootstrap , CSS , HTML
