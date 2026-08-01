@@ -47,22 +47,13 @@ public sealed record Developer
 
 </div>
 
-## Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dw-dash-codes&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dw-dash-codes&layout=compact&langs_count=6&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9" alt="top languages" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=dw-dash-codes&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=61DAFB&fire=512BD4&currStreakLabel=61DAFB&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF" alt="streak" width="70%" />
-
-</div>
-
 ## Contributions
 
 <div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dw-dash-codes&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=61DAFB&fire=512BD4&currStreakLabel=61DAFB&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF" alt="streak" width="70%" />
+
+<br /><br />
 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" width="100%" />
 
