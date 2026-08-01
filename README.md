@@ -1,6 +1,6 @@
 # Hi there, I'm Danish Waheed
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F27A21&center=false&vCenter=false&width=600&lines=Full-Stack+Developer;AI+%26+RAG+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F27A21&center=false&vCenter=false&width=600&lines=Full-Stack+Developer;AI+%26+RAG+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
 
 I am a Full-Stack Developer driven by curiosity, structure, and purpose. I specialize in building scalable applications utilizing modern architecture and robust backend systems.
 
@@ -24,8 +24,12 @@ I am a Full-Stack Developer driven by curiosity, structure, and purpose. I speci
 
 <br/>
 
+## Projects I'm Working On
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dw-dash-codes&theme=transparent&hide_border=true&title_color=F27A21&ring=F27A21&fire=F27A21&currStreakNum=F27A21&border_radius=0" alt="GitHub Streak" />
+  <!-- This replaces the streak widget with your pinned repositories -->
+  <a href="https://github.com/dw-dash-codes/SkillSquare"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dw-dash-codes&repo=SkillSquare&theme=transparent&hide_border=true&title_color=F27A21&icon_color=F27A21&text_color=333333&border_radius=0" alt="SkillSquare" width="48%" /></a>
+  <a href="https://github.com/dw-dash-codes/ServeAi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dw-dash-codes&repo=ServeAi&theme=transparent&hide_border=true&title_color=F27A21&icon_color=F27A21&text_color=333333&border_radius=0" alt="ServeAi" width="48%" /></a>
 </div>
 
 ## GitHub Trophies
