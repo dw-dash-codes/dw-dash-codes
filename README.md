@@ -57,7 +57,7 @@ public sealed record Developer
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dw-dash-codes&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=61DAFB&fire=512BD4&currStreakLabel=61DAFB&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF" alt="streak" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dw-dash-codes&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=61DAFB&fire=512BD4&currStreakLabel=61DAFB&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF" alt="streak" width="70%" />
 
 <br /><br />
 
