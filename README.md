@@ -77,7 +77,7 @@ public sealed record Developer
 
 **Open to collaboration.** Reach me at [danishwaheed271@gmail.com](mailto:danishwaheed271@gmail.com)
 
-<i>Coding with structure, building with purpose.</i>
+<i>Coding with structure, building with purpose ❤</i>
 
 </div>
 
