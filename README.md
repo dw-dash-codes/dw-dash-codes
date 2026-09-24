@@ -19,11 +19,14 @@
 ```csharp
 public sealed record Developer
 {
-    public string Role      => "Full Stack Web Developer";
-    public string Frontend  => "ReactJS, JavaScript, Tailwind CSS, Bootstrap";
-    public string Backend   => "C#, .NET Core, Web API, Entity Framework Core";
-    public string Exploring => "Agentic AI, RAG Pipelines, MERN Stack";
-    public string Portfolio => "https://www.dashcodes.studio/";
+    public string Role       => "Full Stack Web Developer";
+    public string Education  => "BS in Computer Science";
+    public string Experience => "Full-Stack Developer Intern @ Neusoftix";
+    public string Frontend   => "React, JavaScript, Tailwind CSS, Bootstrap";
+    public string Backend    => "C#, ASP.NET Core Web API, Node.js, Express.js";
+    public string Database   => "SQL Server, MongoDB";
+    public string AI_Tech    => "Agentic AI, RAG Pipelines, Google Gemini API";
+    public string Portfolio  => "https://www.dashcodes.studio/";
 }
 ```
 
