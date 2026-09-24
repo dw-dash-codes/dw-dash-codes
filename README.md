@@ -6,7 +6,7 @@
 
 <br />
 
-<a href="https://dash-codes.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.dashcodes.studio/"><img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/danish-waheed-3995aa296"><img src="https://img.shields.io/badge/LinkedIn-512BD4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:danishwaheed271@gmail.com"><img src="https://img.shields.io/badge/Email-512BD4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
