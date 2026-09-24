@@ -23,7 +23,7 @@ public sealed record Developer
     public string Frontend  => "ReactJS, JavaScript, Tailwind CSS, Bootstrap";
     public string Backend   => "C#, .NET Core, Web API, Entity Framework Core";
     public string Exploring => "Agentic AI, RAG Pipelines, MERN Stack";
-    public string Portfolio => "https://dash-codes.vercel.app";
+    public string Portfolio => "https://www.dashcodes.studio/";
 }
 ```
 
